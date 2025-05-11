@@ -1,0 +1,50 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff0f5;
+  color: #333;
+  padding: 30px;
+  max-width: 800px;
+  margin: auto;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(200, 100, 150, 0.2);
+}
+
+.cs {
+  width: 120px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(255, 182, 193, 0.5);
+}
+
+h1 {
+  color: #d63384;
+  text-align: center;
+  font-size: 32px;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  color: #c71585;
+  margin-top: 30px;
+  border-bottom: 2px dashed #ffb6c1;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style-type: square;
+  padding-right: 20px;
+}
+
+a {
+  color: #d63384;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
